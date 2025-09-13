@@ -128,6 +128,48 @@ npm run dev
 
 ---
 
+
+# Account Logins
+
+# PURCHASE ACCOUNT
+
+Username
+```bash
+purchase101@company.com
+````
+Password
+
+```bash
+purchase@company.com
+```
+
+# SALES ACCOUNT
+
+Username
+
+```bash
+sales101@company.com
+```
+Password
+
+```bash
+sales@company.com
+```
+
+# VENDOR ACCOUNT
+
+Username
+
+```bash
+vendor101@company.com
+```
+Password
+```bash
+vendor@company.com
+```
+---
+
+
 ## 📜 License
 
 MIT License © 2025 [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
@@ -140,5 +182,6 @@ MIT License © 2025 [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
 * Email: **[ajmallan123l@gmail.com](mailto:ajmallan123l@gmail.com)**
 
 ```
+
 
 
