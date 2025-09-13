@@ -8,14 +8,14 @@ It provides interactive dashboards, charts, and order management features to hel
 
 ## 🚀 Features
 
-- ✅ User authentication & authorization (JWT-based)  
-- ✅ Sales & purchase order management  
-- ✅ Interactive dashboards with charts and reports  
-- ✅ Role-based views (Salesperson, Vendor, Admin/Purchase Dept)  
-- ✅ Vendor performance and profit analysis  
-- ✅ Modular frontend and backend architecture  
-- ✅ PDF invoice generation (dark/light themes)  
-- ✅ Dark mode as default, responsive mobile-first UI  
+-  User authentication & authorization (JWT-based)  
+-  Sales & purchase order management  
+-  Interactive dashboards with charts and reports  
+-  Role-based views (Salesperson, Vendor, Admin/Purchase Dept)  
+-  Vendor performance and profit analysis  
+-  Modular frontend and backend architecture  
+-  PDF invoice generation (dark/light themes)  
+-  Dark mode as default, responsive mobile-first UI  
 
 ---
 
@@ -122,15 +122,17 @@ npm run dev
 5. Export invoices as PDF (dark/light theme option)
 6. Update profile & avatar
 
+
 ## 👤 Demo Accounts
 
 | Role     | Username                   | Password             |
-| -------- | -------------------------- | -------------------- |
+| -------- | -------------------------- | ------------------ |
 | Purchase | purchase101@company.com    | purchase@company.com |
 | Sales    | sales101@company.com       | sales@company.com    |
 | Vendor   | vendor101@company.com      | vendor@company.com   |
 
 ---
+
 
 
 ## 📜 License
@@ -143,6 +145,3 @@ MIT License © 2025 [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
 
 * GitHub: [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
 * Email: [ajmallan123l@gmail.com](mailto:ajmallan123l@gmail.com)
-
-```
-
