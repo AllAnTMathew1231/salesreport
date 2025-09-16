@@ -132,19 +132,39 @@ MIT License © 2025
 
 ---
 
-## 📬 Contact
-
-* Project maintained by the contributors listed above
-* For inquiries or support, you can reach out via their emails or GitHub profiles.
----
 ## 👥 Contributors
 
-| Name           | Email                                                         | GitHub                                                  | LinkedIn                                                         |
-| -------------- | ------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
-| Aavani Krishna | [aavanikrishna85@gmail.com](mailto:aavanikrishna85@gmail.com) | [aavanikrishna](https://github.com/aavanikrishna)       | [LinkedIn](https://www.linkedin.com/in/aavani-krishna-914893214) |
-| Allan T Mathew | [ajmallan123l@gmail.com](mailto:ajmallan123l@gmail.com)       | [AllAnTMathew1231](https://github.com/AllAnTMathew1231) | [LinkedIn](https://www.linkedin.com/in/allantmathew/)            |
-| Amna Zaynab    | [amnazayn20@gmail.com](mailto:amnazayn20@gmail.com)           | [amna-zaynab](https://github.com/amna-zaynab)           | [LinkedIn](https://www.linkedin.com/in/amna-zaynab)              |
-| Denita Maria   | [denitamaria06@gmail.com](mailto:denitamaria06@gmail.com)     | [DenitaMariaJM](https://github.com/DenitaMariaJM)       | [LinkedIn](https://www.linkedin.com/in/denita-maria)             |
-| Faiza Nadeer   | [faizanadeer@gmail.com](mailto:faizanadeer@gmail.com)         | [faizanadeer](https://github.com/faizanadeer)           | [LinkedIn](http://linkedin.com/in/faiza-fathima-4a1b07342)       |
+* **Aavani Krishna**
+
+  * ✉️ Email: [aavanikrishna85@gmail.com](mailto:aavanikrishna85@gmail.com)
+  * 🐙 GitHub: [aavanikrishna](https://github.com/aavanikrishna)
+  * 🔗 LinkedIn: [Aavani Krishna](https://www.linkedin.com/in/aavani-krishna-914893214)
+
+* **Allan T Mathew**
+
+  * ✉️ Email: [ajmallan123l@gmail.com](mailto:ajmallan123l@gmail.com)
+  * 🐙 GitHub: [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
+  * 🔗 LinkedIn: [Allan T Mathew](https://www.linkedin.com/in/allantmathew/)
+
+* **Amna Zaynab**
+
+  * ✉️ Email: [amnazayn20@gmail.com](mailto:amnazayn20@gmail.com)
+  * 🐙 GitHub: [amna-zaynab](https://github.com/amna-zaynab)
+  * 🔗 LinkedIn: [Amna Zaynab](https://www.linkedin.com/in/amna-zaynab-195b2127a)
+
+* **Denita Maria**
+
+  * ✉️ Email: [denitamaria06@gmail.com](mailto:denitamaria06@gmail.com)
+  * 🐙 GitHub: [DenitaMariaJM](https://github.com/DenitaMariaJM)
+  * 🔗 LinkedIn: [Denita Maria](https://www.linkedin.com/in/denita-maria)
+
+* **Faiza Nadeer**
+
+  * ✉️ Email: [faizanadeer@gmail.com](mailto:faizanadeer@gmail.com)
+  * 🐙 GitHub: [faizanadeer](https://github.com/faizanadeer)
+  * 🔗 LinkedIn: [Faiza Fathima](http://linkedin.com/in/faiza-fathima-4a1b07342)
+
+
+
 
 
