@@ -1,7 +1,6 @@
-Here’s the updated **SalesReport README** with the **License** and **Contact** sections added at the end:
 
 ````markdown
-# SalesReport 📊
+# SalesFlow 📊
 
 A full-stack web application for **sales reporting and management**.  
 It provides interactive dashboards, charts, and order management features to help businesses analyze and manage their sales data effectively.
@@ -163,6 +162,7 @@ MIT License © 2025
   * ✉️ Email: [faizanadeer@gmail.com](mailto:faizanadeer@gmail.com)
   * 🐙 GitHub: [faizanadeer](https://github.com/faizanadeer)
   * 🔗 LinkedIn: [Faiza Fathima](http://linkedin.com/in/faiza-fathima-4a1b07342)
+
 
 
 
