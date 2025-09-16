@@ -1,3 +1,5 @@
+Here’s the updated **SalesReport README** with the **License** and **Contact** sections added at the end:
+
 ````markdown
 # SalesReport 📊
 
@@ -122,26 +124,27 @@ npm run dev
 5. Export invoices as PDF (dark/light theme option)
 6. Update profile & avatar
 
-
-## 👤 Demo Accounts
-
-| Role     | Username                   | Password             |
-| -------- | -------------------------- | ------------------ |
-| Purchase | purchase101@company.com    | purchase@company.com |
-| Sales    | sales101@company.com       | sales@company.com    |
-| Vendor   | vendor101@company.com      | vendor@company.com   |
-
 ---
-
-
 
 ## 📜 License
 
-MIT License © 2025 [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
+MIT License © 2025
 
 ---
 
 ## 📬 Contact
 
-* GitHub: [AllAnTMathew1231](https://github.com/AllAnTMathew1231)
-* Email: [ajmallan123l@gmail.com](mailto:ajmallan123l@gmail.com)
+* Project maintained by the contributors listed above
+* For inquiries or support, you can reach out via their emails or GitHub profiles.
+---
+## 👥 Contributors
+
+| Name           | Email                                                         | GitHub                                                  | LinkedIn                                                         |
+| -------------- | ------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
+| Aavani Krishna | [aavanikrishna85@gmail.com](mailto:aavanikrishna85@gmail.com) | [aavanikrishna](https://github.com/aavanikrishna)       | [LinkedIn](https://www.linkedin.com/in/aavani-krishna-914893214) |
+| Allan T Mathew | [ajmallan123l@gmail.com](mailto:ajmallan123l@gmail.com)       | [AllAnTMathew1231](https://github.com/AllAnTMathew1231) | [LinkedIn](https://www.linkedin.com/in/allantmathew/)            |
+| Amna Zaynab    | [amnazayn20@gmail.com](mailto:amnazayn20@gmail.com)           | [amna-zaynab](https://github.com/amna-zaynab)           | [LinkedIn](https://www.linkedin.com/in/amna-zaynab)              |
+| Denita Maria   | [denitamaria06@gmail.com](mailto:denitamaria06@gmail.com)     | [DenitaMariaJM](https://github.com/DenitaMariaJM)       | [LinkedIn](https://www.linkedin.com/in/denita-maria)             |
+| Faiza Nadeer   | [faizanadeer@gmail.com](mailto:faizanadeer@gmail.com)         | [faizanadeer](https://github.com/faizanadeer)           | [LinkedIn](http://linkedin.com/in/faiza-fathima-4a1b07342)       |
+
+
